@@ -36,7 +36,7 @@ var(IE$IE)
 fivenum(IE$IE)
 
 boxplot(IE$IE~IE$Tratamiento,
-        col = "pink",
+        col = "blue",
         xlab = "Tratamientos", 
         Ylab = "indice")
 
