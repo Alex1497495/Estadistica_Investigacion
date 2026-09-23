@@ -78,4 +78,5 @@ geyser$modelo <- -1.874016 + 0.07563*geyser$waiting
 
 tiem <- c(45, 55, 68)
 -1.874016 + 0.07563 * tiem
-
+ 
+#termino
